@@ -25,4 +25,4 @@ Columns:
 - price_range: Price category of the restaurant (1: Cheap, 5: Expensive).
 - rating: Customer rating on a scale of 2.5 to 5.0.
 - votes: Number of user votes received for rating.
-- average_cost: Approximate cost for two people (in local currency).
+- average_cost: Approximate cost for two people (in local currency)
